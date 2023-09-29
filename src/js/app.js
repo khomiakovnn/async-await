@@ -1,1 +1,3 @@
-console.log('app works');
+import GameSavingLoader from './GameSavingLoader.js';
+
+console.log(GameSavingLoader);
